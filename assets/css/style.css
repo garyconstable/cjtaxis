@@ -210,7 +210,7 @@ h6 {font-size:17px;text-transform:uppercase;padding:0 0 23px;}
 .services.boxed .details h4					{text-transform:uppercase;}
 .services.boxed .details h4 a 					{color:#191F26;}
 
-.services.iconic	{padding:68px 0 30px;}
+.services.iconic	{padding:68px 0 0;}
 .services.iconic h3	{text-transform:uppercase;font-size:17px;padding:0 0 10px;}
 
 .partners 	{float:left;width:100%;padding:48px 0 30px;}
